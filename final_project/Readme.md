@@ -54,7 +54,7 @@ They should get a summary report on what has been submitted by Field agents. For
   * See all of the responds to that form(records) in human readable form (Table) Including the name of the areas that the geo-location fields reside in 
   * See the details of one record if click on the row 
   * For numerical fields  show the sum  of the column in last row 
-  * Filter the report by geo-locations. They have to first select a geolocation field and then select a predefined area and the report must be filtered to show the records that the selected gelocation field is inside that area 
+  * Filter the report by geo-locations. They have to first select a geolocation field and then select a predefined area and the report must be filtered to show the records that the selected geolocation field is inside that area 
   * Being able to export the result of report to CSV file 
 ## Out of Scope 
 Authentication and Authorization is out of scope for this project  and for now anyone hitting the URLs can use the system 
