@@ -75,12 +75,20 @@ It should have a separate front-end and back-end. You can use any node library t
 I highly recommend to use one of the component libraries and use of the create-react-app. 
 
 For Location type field you have to use Google Map API to let user select a location. 
+You have to deploy your application to Heroku. 
+
+# Google Map API 
+For showing geolocation fields you need a google maps API, I will provide this to you but make sure you are not sharing it to anyone. 
+Also make sure that you are not going to push it to repository as part of your source code. 
+
 
 ### Marking 
+Your project structure and proper use of components is mandatory. 
+You should have a clear folder and component hierarchy. 
+
 Following point have extra point in the homework: 
 * Supporting RTL (Persian) language 
 * Responsive UI To work both on mobile and desktop 
-* Deployment on Heroku or any other cloud provider 
 
 ## Team Structure 
 You can work in group of up to 4  students. All of you team members MUST be able to explain all of the code. I will pick a member randomly and he/she should be able to explain all of the project. Otherwise the whole team will lose the mark of the homework.
